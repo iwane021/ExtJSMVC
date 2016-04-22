@@ -1,0 +1,7 @@
+{
+    "success": true,
+    "users_data": [
+        {"id": 1, "name": 'Toni', "email": "toni@gmail.com"},
+        {"id": 2, "name": 'Adam', "email": "adam@gmail.com"}
+    ]
+}
